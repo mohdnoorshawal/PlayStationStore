@@ -1,0 +1,12 @@
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\bin\Debug\frm_mainmenu_a166601.exe.config
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\bin\Debug\frm_mainmenu_a166601.exe
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\bin\Debug\frm_mainmenu_a166601.pdb
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\bin\Debug\frm_mainmenu_a166601.xml
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.vbprojAssemblyReference.cache
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.Resources.resources
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.vbproj.GenerateResource.cache
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.vbproj.CoreCompileInputs.cache
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.exe
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.xml
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.pdb
+C:\A166601_Assignment\frm_mainmenu_a166601\frm_mainmenu_a166601\obj\Debug\frm_mainmenu_a166601.Form1.resources
